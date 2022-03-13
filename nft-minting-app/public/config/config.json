@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc7F2dD070877f1151a29DEc0FcDcA6b482fA6D44",
+  "SCAN_LINK": "https://ftmscan.com/address/0xc7F2dD070877f1151a29DEc0FcDcA6b482fA6D44",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Fantom Agents",
+  "SYMBOL": "FTMAGENTS",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Paintswap",
+  "MARKETPLACE_LINK": "https://paintswap.finance/marketplace/collections/0xc7f2dd070877f1151a29dec0fcdca6b482fa6d44",
+  "SHOW_BACKGROUND": true
+}
